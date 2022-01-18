@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "0d1e813320a7b66c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ae722fd3f753377",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Footprinting/Google Dorking.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2d587e092ec9c06a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0fe1ac41680efbe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81eab98a5206d40b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c56cc59ee70ac39d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b6f1c0fc9e6969be",
+    "type": "split",
+    "children": [
+      {
+        "id": "80541a041694a04d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b04922d814a255fd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Footprinting/Google Dorking.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3ae722fd3f753377",
+  "lastOpenFiles": [
+    "Footprinting/Google Dorking.md",
+    "template.md",
+    "test.png",
+    "kalu/lol.md"
+  ]
+}
