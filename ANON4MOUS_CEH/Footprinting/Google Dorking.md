@@ -2,7 +2,7 @@
 
 1. site : shows result of the specified site only - 
 	
-	si. eg :- `site: hide01.ir`
+	i. eg :- `site: hide01.ir`
 
 2. allinurl:  pages containing all the query terms specified in the URL. 
 
