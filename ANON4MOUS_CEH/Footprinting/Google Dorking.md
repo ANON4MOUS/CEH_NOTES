@@ -1,7 +1,8 @@
 <center><h1> Google Dorking</h1></center>
 
 1. site : shows result of the specified site only - 
-	i. eg :- `site: hide01.ir`
+	
+	si. eg :- `site: hide01.ir`
 
 2. allinurl:  pages containing all the query terms specified in the URL. 
 
