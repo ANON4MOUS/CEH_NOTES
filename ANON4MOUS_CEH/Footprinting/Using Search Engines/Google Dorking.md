@@ -53,3 +53,15 @@
 13. Filetype or ext: shows result of pages containing the same file type
 
 	i. Example: `site: www.microsoft.com filetype:pdf` or `site: www.microsoft.com ext: docx`
+
+
+
+  
+
+# Google Logical Query Operators :-
+|Operator | Defination | Eg|
+|---------|------------|---|
+| OR              | A or B(OR OPERATION)| `ecouncil OR sans`|
+|   AND         |  A AND B(AND OPERATION) | `ecouncil AND sans`|
+| - | exclude a term or phrase | `intext: passwords -github`|
+|* | wildcard operator|`*ecouncil* price`|

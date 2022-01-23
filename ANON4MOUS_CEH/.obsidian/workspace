@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Footprinting/Google Dorking.md",
+            "file": "Footprinting/Social media networking/Gather Linkedin info using Harvester.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Footprinting/Google Dorking.md",
+                "file": "Footprinting/Social media networking/Gather Linkedin info using Harvester.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,9 +89,15 @@
   },
   "active": "3ae722fd3f753377",
   "lastOpenFiles": [
-    "Footprinting/Google Dorking.md",
-    "template.md",
-    "test.png",
-    "kalu/lol.md"
+    "Footprinting/Social media networking/Gather Linkedin info using Harvester.md",
+    "Footprinting/Social media networking/Gathering Email using Harvester.md",
+    "Footprinting/Social media networking/Gather information using Followerwonk.md",
+    "Footprinting/Social media networking/Social Media using Sherlock.md",
+    "Footprinting/Using Web Services/Target OS with Passive Search Engine.md",
+    "Footprinting/Using Web Services/Others(location,linkedin,subdomains).md",
+    "Footprinting/Using Web Services/personal info(peekyou).md",
+    "Footprinting/Using Web Services/Deep or Dark Web Search.md",
+    "Footprinting/Using Search Engines/Using advance Search of GOOGLE.md",
+    "Footprinting/Using Search Engines/Google Dorking.md"
   ]
 }
