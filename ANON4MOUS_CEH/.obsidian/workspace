@@ -7,12 +7,8 @@
         "id": "3ae722fd3f753377",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Footprinting/Social media networking/Gather Linkedin info using Harvester.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Footprinting/Social media networking/Gather Linkedin info using Harvester.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +84,15 @@
   },
   "active": "3ae722fd3f753377",
   "lastOpenFiles": [
+    "Footprinting/Untitled.md",
+    "Footprinting/WEBSITE FOOTPRINTING/Mirroring website.md",
+    "Footprinting/WEBSITE FOOTPRINTING/Info about website traffic.md",
+    "Footprinting/WEBSITE FOOTPRINTING/Creating Wordlist from Target Website.md",
+    "Footprinting/WEBSITE FOOTPRINTING/Web data extracter(company info).md",
+    "Footprinting/WEBSITE FOOTPRINTING/Pinging.md",
     "Footprinting/Social media networking/Gather Linkedin info using Harvester.md",
     "Footprinting/Social media networking/Gathering Email using Harvester.md",
     "Footprinting/Social media networking/Gather information using Followerwonk.md",
-    "Footprinting/Social media networking/Social Media using Sherlock.md",
-    "Footprinting/Using Web Services/Target OS with Passive Search Engine.md",
-    "Footprinting/Using Web Services/Others(location,linkedin,subdomains).md",
-    "Footprinting/Using Web Services/personal info(peekyou).md",
-    "Footprinting/Using Web Services/Deep or Dark Web Search.md",
-    "Footprinting/Using Search Engines/Using advance Search of GOOGLE.md",
-    "Footprinting/Using Search Engines/Google Dorking.md"
+    "Footprinting/Social media networking/Social Media using Sherlock.md"
   ]
 }
