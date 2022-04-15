@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "3ae722fd3f753377",
+        "id": "20d09155b7b08e2c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes & Tools/2. Enumeration/4. NFS/Linux/SuperEnum.md",
+            "file": "Footprinting/Using Web Services/Target OS with Passive Search Engine.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes & Tools/2. Enumeration/4. NFS/Linux/SuperEnum.md",
+                "file": "Footprinting/Using Web Services/Target OS with Passive Search Engine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3ae722fd3f753377",
+  "active": "20d09155b7b08e2c",
   "lastOpenFiles": [
+    "Footprinting/Using Web Services/Target OS with Passive Search Engine.md",
+    "Footprinting/Using Web Services/personal info(peekyou).md",
+    "Footprinting/Using Web Services/Others(location,linkedin,subdomains).md",
+    "Footprinting/Using Search Engines/Using advance Search of GOOGLE.md",
+    "Footprinting/Using Search Engines/Google Dorking.md",
+    "Notes & Tools/2. Enumeration/3. LDAP/Windows/AD Explorer.md",
+    "Notes & Tools/2. Enumeration/4. NFS/Linux/Nmap.md",
     "Notes & Tools/2. Enumeration/4. NFS/Linux/SuperEnum.md",
     "Notes & Tools/2. Enumeration/4. NFS/Linux/RPC Scan.md",
-    "Notes & Tools/2. Enumeration/4. NFS/Linux/Nmap.md",
-    "Notes & Tools/2. Enumeration/4. NFS/Untitled.md",
-    "Notes & Tools/2. Enumeration/4. NFS/Port.md",
-    "Notes & Tools/2. Enumeration/3. LDAP/Windows/AD Explorer.md",
-    "Notes & Tools/2. Enumeration/3. LDAP/Port.md",
-    "Notes & Tools/2. Enumeration/2. SNMP/1. Port.md",
-    "Notes & Tools/2. Enumeration/2. SNMP/Windows/SoftPerfect Network Scanner.md",
-    "Notes & Tools/2. Enumeration/2. SNMP/Linux/SNMP-check.md"
+    "Pasted image 20220415174036 2.png"
   ]
 }
