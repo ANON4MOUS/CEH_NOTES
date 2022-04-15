@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes & Tools/Scanning/Others/USE NMAP AND THE PDF COMBINATION.md",
+            "file": "Notes & Tools/1. Scanning/1. Network/3. Port Scanning.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes & Tools/Scanning/Others/USE NMAP AND THE PDF COMBINATION.md",
+                "file": "Notes & Tools/1. Scanning/1. Network/3. Port Scanning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,13 +89,13 @@
   },
   "active": "3ae722fd3f753377",
   "lastOpenFiles": [
-    "Notes & Tools/Scanning/Others/USE NMAP AND THE PDF COMBINATION.md",
-    "Notes & Tools/Scanning/Others/nmap_cheet_sheet_v7 1.pdf",
-    "Notes & Tools/Scanning/Network/nmap_cheet_sheet_v7.pdf",
+    "Notes & Tools/1. Scanning/1. Network/3. Port Scanning.md",
+    "Notes & Tools/1. Scanning/2. Others/1. USE NMAP AND THE PDF COMBINATION.md",
+    "Notes & Tools/1. Scanning/2. Others/nmap_cheet_sheet_v7 1.pdf",
+    "Notes & Tools/1. Scanning/1. Network/4. nmap_cheet_sheet_v7.pdf",
     "Notes & Tools/Scanning/Untitled.md",
-    "Notes & Tools/Scanning/Network/Port Scanning.md",
-    "Notes & Tools/Scanning/Network/Find Live Hosts or Ping sweep.md",
-    "Notes & Tools/Scanning/Network/IMPORTANT Site for Other Help.md",
+    "Notes & Tools/1. Scanning/1. Network/2. Find Live Hosts or Ping sweep.md",
+    "Notes & Tools/1. Scanning/1. Network/1. IMPORTANT Site for Other Help.md",
     "Footprinting/EMAIL FOOTPRINTING/Email Footprinting.md",
     "Notes & Tools/Untitled.md",
     "Footprinting/Untitled.md"
