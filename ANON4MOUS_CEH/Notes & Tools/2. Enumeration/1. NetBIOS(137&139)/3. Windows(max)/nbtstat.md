@@ -3,7 +3,9 @@
 - ### Display NETBIOS name cache of Windows Computer
 	- nbtstat -c 10.10.10.x
 - ### use the NETBIOS share on Windows Computer
-	- net use
+	-   `net use`
+	-   `net use \10.10.10.16\e ““\user:””`
+	-   `net use \10.10.10.16\e ““/user:””`
 
 
 ```

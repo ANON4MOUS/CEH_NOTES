@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Footprinting/Using Web Services/Target OS with Passive Search Engine.md",
+            "file": "Notes & Tools/2. Enumeration/Enum4Linux/Note.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Footprinting/Using Web Services/Target OS with Passive Search Engine.md",
+                "file": "Notes & Tools/2. Enumeration/Enum4Linux/Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "20d09155b7b08e2c",
   "lastOpenFiles": [
-    "Footprinting/Using Web Services/Target OS with Passive Search Engine.md",
-    "Footprinting/Using Web Services/personal info(peekyou).md",
-    "Footprinting/Using Web Services/Others(location,linkedin,subdomains).md",
-    "Footprinting/Using Search Engines/Using advance Search of GOOGLE.md",
-    "Footprinting/Using Search Engines/Google Dorking.md",
-    "Notes & Tools/2. Enumeration/3. LDAP/Windows/AD Explorer.md",
-    "Notes & Tools/2. Enumeration/4. NFS/Linux/Nmap.md",
-    "Notes & Tools/2. Enumeration/4. NFS/Linux/SuperEnum.md",
-    "Notes & Tools/2. Enumeration/4. NFS/Linux/RPC Scan.md",
-    "Pasted image 20220415174036 2.png"
+    "Notes & Tools/2. Enumeration/Enum4Linux/Note.md",
+    "Notes & Tools/2. Enumeration/2. SNMP(161)/Linux/Other ways.md",
+    "Notes & Tools/2. Enumeration/Clueless then come here.md",
+    "Notes & Tools/2. Enumeration/6. SMB(139&445)/SMB Client.md",
+    "Notes & Tools/2. Enumeration/6. SMB(139&445)/SMB MAP.md",
+    "Notes & Tools/2. Enumeration/6. SMB(139&445)/Using MSF.md",
+    "Notes & Tools/2. Enumeration/6. SMB(139&445)/Nmap Scripts.md",
+    "Notes & Tools/2. Enumeration/1. NetBIOS(137&139)/3. Windows(max)/nbtstat.md",
+    "Notes & Tools/2. Enumeration/5. DNS/Tools & more.md",
+    "Notes & Tools/2. Enumeration/1. NetBIOS(137&139)/1. Ports.md"
   ]
 }
