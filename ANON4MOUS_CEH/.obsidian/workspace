@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes & Tools/1. Scanning/1. Network/3. Port Scanning.md",
+            "file": "Notes & Tools/2. Enumeration/4. NFS/Linux/SuperEnum.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes & Tools/1. Scanning/1. Network/3. Port Scanning.md",
+                "file": "Notes & Tools/2. Enumeration/4. NFS/Linux/SuperEnum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "3ae722fd3f753377",
   "lastOpenFiles": [
-    "Notes & Tools/1. Scanning/1. Network/3. Port Scanning.md",
-    "Notes & Tools/1. Scanning/2. Others/1. USE NMAP AND THE PDF COMBINATION.md",
-    "Notes & Tools/1. Scanning/2. Others/nmap_cheet_sheet_v7 1.pdf",
-    "Notes & Tools/1. Scanning/1. Network/4. nmap_cheet_sheet_v7.pdf",
-    "Notes & Tools/Scanning/Untitled.md",
-    "Notes & Tools/1. Scanning/1. Network/2. Find Live Hosts or Ping sweep.md",
-    "Notes & Tools/1. Scanning/1. Network/1. IMPORTANT Site for Other Help.md",
-    "Footprinting/EMAIL FOOTPRINTING/Email Footprinting.md",
-    "Notes & Tools/Untitled.md",
-    "Footprinting/Untitled.md"
+    "Notes & Tools/2. Enumeration/4. NFS/Linux/SuperEnum.md",
+    "Notes & Tools/2. Enumeration/4. NFS/Linux/RPC Scan.md",
+    "Notes & Tools/2. Enumeration/4. NFS/Linux/Nmap.md",
+    "Notes & Tools/2. Enumeration/4. NFS/Untitled.md",
+    "Notes & Tools/2. Enumeration/4. NFS/Port.md",
+    "Notes & Tools/2. Enumeration/3. LDAP/Windows/AD Explorer.md",
+    "Notes & Tools/2. Enumeration/3. LDAP/Port.md",
+    "Notes & Tools/2. Enumeration/2. SNMP/1. Port.md",
+    "Notes & Tools/2. Enumeration/2. SNMP/Windows/SoftPerfect Network Scanner.md",
+    "Notes & Tools/2. Enumeration/2. SNMP/Linux/SNMP-check.md"
   ]
 }
