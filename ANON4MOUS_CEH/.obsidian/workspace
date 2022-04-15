@@ -7,8 +7,12 @@
         "id": "3ae722fd3f753377",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Notes & Tools/Scanning/Others/USE NMAP AND THE PDF COMBINATION.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes & Tools/Scanning/Others/USE NMAP AND THE PDF COMBINATION.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +89,15 @@
   },
   "active": "3ae722fd3f753377",
   "lastOpenFiles": [
-    "Footprinting/Untitled.md",
-    "Footprinting/WEBSITE FOOTPRINTING/Mirroring website.md",
-    "Footprinting/WEBSITE FOOTPRINTING/Info about website traffic.md",
-    "Footprinting/WEBSITE FOOTPRINTING/Creating Wordlist from Target Website.md",
-    "Footprinting/WEBSITE FOOTPRINTING/Web data extracter(company info).md",
-    "Footprinting/WEBSITE FOOTPRINTING/Pinging.md",
-    "Footprinting/Social media networking/Gather Linkedin info using Harvester.md",
-    "Footprinting/Social media networking/Gathering Email using Harvester.md",
-    "Footprinting/Social media networking/Gather information using Followerwonk.md",
-    "Footprinting/Social media networking/Social Media using Sherlock.md"
+    "Notes & Tools/Scanning/Others/USE NMAP AND THE PDF COMBINATION.md",
+    "Notes & Tools/Scanning/Others/nmap_cheet_sheet_v7 1.pdf",
+    "Notes & Tools/Scanning/Network/nmap_cheet_sheet_v7.pdf",
+    "Notes & Tools/Scanning/Untitled.md",
+    "Notes & Tools/Scanning/Network/Port Scanning.md",
+    "Notes & Tools/Scanning/Network/Find Live Hosts or Ping sweep.md",
+    "Notes & Tools/Scanning/Network/IMPORTANT Site for Other Help.md",
+    "Footprinting/EMAIL FOOTPRINTING/Email Footprinting.md",
+    "Notes & Tools/Untitled.md",
+    "Footprinting/Untitled.md"
   ]
 }
