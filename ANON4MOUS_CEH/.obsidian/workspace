@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes & Tools/2. Enumeration/Enum4Linux/Note.md",
+            "file": "Notes & Tools/3. Vulnerability Analysis/Nessus.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes & Tools/2. Enumeration/Enum4Linux/Note.md",
+                "file": "Notes & Tools/3. Vulnerability Analysis/Nessus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "20d09155b7b08e2c",
   "lastOpenFiles": [
-    "Notes & Tools/2. Enumeration/Enum4Linux/Note.md",
-    "Notes & Tools/2. Enumeration/2. SNMP(161)/Linux/Other ways.md",
-    "Notes & Tools/2. Enumeration/Clueless then come here.md",
+    "Notes & Tools/3. Vulnerability Analysis/Nessus.md",
     "Notes & Tools/2. Enumeration/6. SMB(139&445)/SMB Client.md",
-    "Notes & Tools/2. Enumeration/6. SMB(139&445)/SMB MAP.md",
-    "Notes & Tools/2. Enumeration/6. SMB(139&445)/Using MSF.md",
-    "Notes & Tools/2. Enumeration/6. SMB(139&445)/Nmap Scripts.md",
-    "Notes & Tools/2. Enumeration/1. NetBIOS(137&139)/3. Windows(max)/nbtstat.md",
-    "Notes & Tools/2. Enumeration/5. DNS/Tools & more.md",
-    "Notes & Tools/2. Enumeration/1. NetBIOS(137&139)/1. Ports.md"
+    "Footprinting/Social media networking/Social Media using Sherlock.md",
+    "Footprinting/Social media networking/Gathering Email using Harvester.md",
+    "Footprinting/Social media networking/Gather Linkedin info using Harvester.md",
+    "Footprinting/Social media networking/Gather information using Followerwonk.md",
+    "Footprinting/EMAIL FOOTPRINTING/Email Footprinting.md",
+    "Notes & Tools/3. Vulnerability Analysis/Web/wpscan(wordpress).md",
+    "Notes & Tools/3. Vulnerability Analysis/Web/Whatweb.md",
+    "Notes & Tools/3. Vulnerability Analysis/Web/NIkto-Cheat-Sheet.pdf"
   ]
 }

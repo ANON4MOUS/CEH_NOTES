@@ -1,4 +1,4 @@
-- My suggestion is to use Nmap to discover the SMP, RPC, FTP
+-  My suggestion is to use Nmap to discover the SMP, RPC, FTP
 
 
 
