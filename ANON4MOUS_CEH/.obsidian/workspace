@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes & Tools/3. Vulnerability Analysis/Nessus.md",
+            "file": "Notes & Tools/1. All Links for reference.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 372
   },
   "right": {
     "id": "b6f1c0fc9e6969be",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes & Tools/3. Vulnerability Analysis/Nessus.md",
+                "file": "Notes & Tools/1. All Links for reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "20d09155b7b08e2c",
   "lastOpenFiles": [
-    "Notes & Tools/3. Vulnerability Analysis/Nessus.md",
-    "Notes & Tools/2. Enumeration/6. SMB(139&445)/SMB Client.md",
-    "Footprinting/Social media networking/Social Media using Sherlock.md",
-    "Footprinting/Social media networking/Gathering Email using Harvester.md",
-    "Footprinting/Social media networking/Gather Linkedin info using Harvester.md",
-    "Footprinting/Social media networking/Gather information using Followerwonk.md",
-    "Footprinting/EMAIL FOOTPRINTING/Email Footprinting.md",
-    "Notes & Tools/3. Vulnerability Analysis/Web/wpscan(wordpress).md",
-    "Notes & Tools/3. Vulnerability Analysis/Web/Whatweb.md",
-    "Notes & Tools/3. Vulnerability Analysis/Web/NIkto-Cheat-Sheet.pdf"
+    "Notes & Tools/1. All Links for reference.md",
+    "Notes & Tools/5. Crypto/3. Rainbow Crack.md",
+    "Notes & Tools/5. Crypto/2. Hashcalc.md",
+    "Notes & Tools/5. Crypto/4. Veracrypt.md",
+    "Notes & Tools/8. Web/Other Labs.md",
+    "Notes & Tools/4. System Hacking/1. Responder.md",
+    "Notes & Tools/1. Scanning/Labs.md",
+    "Notes & Tools/2. Enumeration/Labs.md",
+    "Notes & Tools/4. System Hacking/Labs.md",
+    "Notes & Tools/0. ALL TOOLS IN LABS.md"
   ]
 }

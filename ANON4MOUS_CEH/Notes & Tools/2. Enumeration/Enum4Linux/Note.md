@@ -58,3 +58,4 @@ enum4linux -u guru -p cloudflare -S 10.10.10.x
 -   enum4linux -u martin -p apple -G 10.10.10.12 -> Groups Information
     
 -   enum4linux -u martin -p apple -S 10.10.10.12 -> Share Policy Information (SMB Shares Enumeration
+
