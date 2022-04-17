@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes & Tools/1. All Links for reference.md",
+            "file": "Boxes to practice.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes & Tools/1. All Links for reference.md",
+                "file": "Boxes to practice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "20d09155b7b08e2c",
   "lastOpenFiles": [
+    "Boxes to practice.md",
     "Notes & Tools/1. All Links for reference.md",
     "Notes & Tools/5. Crypto/3. Rainbow Crack.md",
     "Notes & Tools/5. Crypto/2. Hashcalc.md",
@@ -97,7 +98,6 @@
     "Notes & Tools/4. System Hacking/1. Responder.md",
     "Notes & Tools/1. Scanning/Labs.md",
     "Notes & Tools/2. Enumeration/Labs.md",
-    "Notes & Tools/4. System Hacking/Labs.md",
-    "Notes & Tools/0. ALL TOOLS IN LABS.md"
+    "Notes & Tools/4. System Hacking/Labs.md"
   ]
 }
